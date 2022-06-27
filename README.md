@@ -2,7 +2,7 @@
  Research Project on Felon Re-enfranchisment
 
 
-#Instructions
+Instructions
 
 Raw data can be accessed by completing public records requests with Department of Corrections and Secretary of State offices for the following timeframe 2016 - June 2022 and the following data fields:
 
