@@ -1350,7 +1350,7 @@ test9 <- test8 %>%
 #for percentage data, after unique output is printed go to the df and filter visually to confirm which percentage goes 
 #with which group
 
-#find find percentage of parolees registered to vote overall, before, and after...
+#find percentage of parolees registered to vote overall, before, and after...
 simple <- test9 %>% 
   group_by(parole, registered)%>% #tally records by parole status and turnout status
   mutate(
@@ -1386,7 +1386,7 @@ simple <- test9 %>%
    
   )  
 
-#percentage of parolees registered to vote over full time frame?
+#percentage of parolees registered to vote overall full time frame?
 print(unique(simple$parolees_registered_to_vote))
 # "" "7.17209121029039" "92.8279087897096"; look at simple to confirm correct groups
 
