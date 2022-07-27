@@ -1,5 +1,4 @@
-# Data-Studio-Project
- Research Project on Felon Re-enfranchisment
+# Restoration and Parolee Voting Behavior in New Jersey
 
 
 Instructions
