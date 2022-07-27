@@ -35,7 +35,7 @@ From there, follow the code and load the 21 csvs into a list and load up the dat
 
 As you run the code, be aware that only the first visualization uses R. You can prep by opening Excel and Google Slides in advance and refamiliarzing yourself with these platforms if you are rusty.
 
-Additionally, given that the data contains personal information take care to store your files securely and make sure you remove all unique identifiers from your code before posting, sharing with others, etc.
+Additionally, given that the data contains personal information take care to store your files securely and make sure you remove all unique identifiers from your code before posting, sharing with others, etc. 
 
 Last, you will notice that my script doesn't contain anything for fuzzy matching. That's because I found less than 200 fuzzy matches and figured that excluding them would save time without hurting the analysis. 
 
